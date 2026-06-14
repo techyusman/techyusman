@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Usman&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Integrator&descAlignY=60&descSize=18&descColor=93c5fd&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=M.Usman&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Integrator&descAlignY=60&descSize=18&descColor=93c5fd&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/techyusman">
@@ -82,8 +82,6 @@ I design and ship **end-to-end web products** — clean UIs, robust APIs, and ev
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🤖 AI / ML & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -100,7 +98,6 @@ I design and ship **end-to-end web products** — clean UIs, robust APIs, and ev
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -108,7 +105,7 @@ I design and ship **end-to-end web products** — clean UIs, robust APIs, and ev
 ## 🧠 Who I Am in Code
 
 ```javascript
-const usman = {
+const M.Usman = {
   role:     "Full Stack Developer",
   mission:  "Build products that are fast, elegant, and genuinely useful",
 
