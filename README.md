@@ -7,7 +7,7 @@
 
 <br/>
 
-## 👋 Hey, I'm Usman
+## 👋 Hey, I'm   M.Usman
 
 I'm a **Full Stack Developer** who builds complete web products — from polished interfaces to scalable backends. Currently focused on crafting **SaaS products**, contributing to **open source**, and integrating **AI/ML** into real-world applications.
 
