@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=93c5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=M.Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=93c5fd" />
 
 </div>
 
@@ -64,7 +64,7 @@ I'm a **Full Stack Developer** who builds complete web products — from polishe
 ## 🧠 Currently Exploring
 
 ```js
-const usman = {
+const M.usman = {
   role:       "Full Stack Developer",
   focus:      ["SaaS Architecture", "AI/ML Integration", "Open Source"],
   stack:      {
