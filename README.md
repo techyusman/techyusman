@@ -104,11 +104,11 @@ const M.Usman = {
   languages: ["JavaScript", "TypeScript", "Java", "C++", "Python"],
 
   stack: {
-    frontend:  ["React", "Next.js", "TailwindCSS", "Redux", "Framer Motion"],
+    frontend:  ["React", "Next.js", "TailwindCSS", "Framer Motion"],
     backend:   ["Node.js", "Express", "Spring Boot", "GraphQL", "REST"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Supabase"],
-    cloud:     ["AWS", "GCP", "Docker", "Kubernetes", "Nginx"],
-    cicd:      ["GitHub Actions", "Jenkins", "CircleCI", "Terraform"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
+    cloud:     ["AWS", "Docker"],
+    cicd:      ["GitHub Actions"],
     ai:        ["OpenAI API", "LangChain", "TensorFlow", "PyTorch"],
   },
 
@@ -164,9 +164,9 @@ const M.Usman = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/techyusman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-6981473a9/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techyusman)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techyusman@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadusman122003@gmail.com)
 
 <br/>
 
