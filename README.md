@@ -28,7 +28,7 @@ role:     Full Stack Developer
 location: 🌍 Building remotely / On-site
 ```
 
-I design and ship **end-to-end web products** — clean UIs, robust APIs, and everything in between. My sweet spot is turning complex problems into elegant, maintainable software. Right now I'm deep in **SaaS architecture**, **AI/ML integrations**, and meaningful **open source** work.
+I design and ship **end-to-end web products** clean UIs, robust APIs, and everything in between. My sweet spot is turning complex problems into elegant, maintainable software. Right now I'm deep in **SaaS architecture**, **AI/ML integrations**, and meaningful **open source** work.
 
 - 🏗️ Currently building **SaaS products** with multi-tenant architectures
 - 🤖 Integrating **LLMs & AI APIs** into production applications
