@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=M.Usman&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Integrator&descAlignY=60&descSize=18&descColor=93c5fd&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Muhammad.Usman&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Integrator&descAlignY=60&descSize=18&descColor=93c5fd&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/techyusman">
