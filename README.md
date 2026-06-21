@@ -153,7 +153,7 @@ const M.Usman = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusmn&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusman&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f" />
 
 </div>
 
