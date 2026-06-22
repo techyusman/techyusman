@@ -96,7 +96,7 @@ I design and ship **end-to-end web products** clean UIs, robust APIs, and everyt
 ## 🧠 Who I Am in Code
 
 ```javascript
-const M.Usman = {
+const muhamadUsman = {
   role:     "Full Stack Developer",
   mission:  "Build products that are fast, elegant, and genuinely useful",
 
@@ -128,12 +128,16 @@ const M.Usman = {
 
 <div align="center">
 
+<!-- Stats card: count_private=true picks up private repo commits -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=techyusman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=3b82f6&icon_color=3b82f6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techyusman&theme=tokyonight&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
+
+<!-- Streak stats: uses updated domain streak-stats.demolab.com (herokuapp is deprecated) -->
+<img width="49%" src="https://streak-stats.demolab.com?user=techyusman&theme=tokyonight&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&count_private=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyusman&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=3b82f6" />
+<!-- Top langs -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyusman&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=3b82f6&count_private=true" />
 
 </div>
 
@@ -153,9 +157,18 @@ const M.Usman = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusman&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f" />
+<!--
+  Activity graph: using github-readme-activity-graph.vercel.app
+  include_all_commits=true and count_private=true are handled server-side.
+  Make sure your profile README repo is public AND the special repo
+  (techyusman/techyusman) exists — that's what triggers GitHub to
+  count ALL contributions including private ones in the graph.
+-->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusman&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&include_all_commits=true" />
 
 </div>
+
+> ⚠️ **Why some commits may not show:** GitHub only counts contributions on your **default branch**, in **public repos** or repos where you're the owner. Forks don't count unless a PR was merged. Private repo commits appear only when *"Private contributions"* is enabled on your GitHub profile settings under **Edit Profile → Contribution Settings → Show private contributions**.
 
 ---
 
