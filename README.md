@@ -153,7 +153,17 @@ const muhammadUsman = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusman&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&include_all_commits=true" />
+<!-- Full-year contribution graph (last 365 days) -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusman&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&days=365" />
+
+<br/>
+
+<!-- Snake animation of your contribution grid — mirrors your real GitHub heatmap -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techyusman/techyusman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techyusman/techyusman/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/techyusman/techyusman/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
