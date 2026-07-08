@@ -143,7 +143,7 @@ const muhammadUsman = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=techyusman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=techyusman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
 
 </div>
 
@@ -156,14 +156,7 @@ const muhammadUsman = {
 <!-- Full-year contribution graph (last 365 days) -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusman&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&days=365" />
 
-<br/>
 
-<!-- Snake animation of your contribution grid — mirrors your real GitHub heatmap -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techyusman/techyusman/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techyusman/techyusman/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/techyusman/techyusman/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
@@ -173,6 +166,7 @@ const muhammadUsman = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://techyusman.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-6981473a9/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techyusman)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadusman122003@gmail.com)
