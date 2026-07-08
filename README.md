@@ -129,7 +129,7 @@ const muhammadUsman = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=techyusman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=3b82f6&icon_color=3b82f6" />
-<img width="49%" src="https://streak-stats.demolab.com?user=techyusman&theme=tokyonight&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=techyusman&theme=tokyonight&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&stroke=3b82f6" />
 
 <br/><br/>
 
@@ -143,7 +143,7 @@ const muhammadUsman = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=techyusman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=techyusman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -153,8 +153,8 @@ const muhammadUsman = {
 
 <div align="center">
 
-<!-- Full-year contribution graph (last 365 days) -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techyusman&theme=tokyo-night&hide_border=true&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&days=365" />
+<!-- Contribution graph — stable alternative -->
+<img width="100%" src="https://ghchart.rshah.org/3b82f6/techyusman" alt="Muhammad Usman's GitHub Contribution Chart" />
 
 
 
