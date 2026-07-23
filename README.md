@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:38bdf8&height=200&section=header&text=Muhammad%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20SE%20Student%20%40%20Sukkur%20IBA&descAlignY=60&descSize=18&descColor=38bdf8&animation=fadeIn" />
+<!-- Header: text split across two lines for better rendering -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:38bdf8&height=220&section=header&text=Muhammad%20Usman&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20SE%20%40%20Sukkur%20IBA%20University&descAlignY=60&descSize=17&descColor=38bdf8" />
 
 <br/>
 
@@ -36,23 +37,23 @@
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3 align="center">🏭 Live Production ERP</h3>
-			<p align="center"><em>Retail ERP — 1,000+ SKUs, WhatsApp-automated billing</em></p>
-			<p>Duo-developed production ERP for Aamir's Autos & Battery Store — inventory management, WhatsApp Business API invoice delivery, MongoDB aggregation queries optimised to sub-200ms on a resource-constrained VPS. Active daily use.</p>
+			<h3 align="center">⚖️ LexAI</h3>
+			<p align="center"><em>AI-powered legal assistant for Pakistani law</em></p>
+			<p>LLM-powered legal intelligence platform — case law research, judgment prediction, and legal document analysis tailored for the Pakistani legal system. Built with RAG pipelines over local case-law corpus and an intuitive interface for legal professionals and students.</p>
 			<p align="center">
+				<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+				<img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=38bdf8"/>
 				<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-				<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D"/>
-				<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
 			</p>
 		</td>
 		<td width="50%" valign="top">
-			<h3 align="center">🤖 Urdu AI Voice Assistant</h3>
-			<p align="center"><em>End-to-end Urdu LLM pipeline — sub-2s round-trip latency</em></p>
-			<p>Full Urdu LLM pipeline: Gemini inference + LangChain multi-turn memory with real-time STT/TTS loop achieving sub-2s round-trip latency. Deployed via Streamlit for non-technical users.</p>
+			<h3 align="center">🔍 TruthLens AI</h3>
+			<p align="center"><em>AI-driven misinformation & fact-checking platform</em></p>
+			<p>Real-time misinformation detection and fact-checking engine — NLP-powered claim verification, source credibility scoring, and bias analysis. Designed to surface truth in the age of information overload with an explainable AI interface.</p>
 			<p align="center">
-				<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-				<img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
-				<img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+				<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+				<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+				<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D"/>
 			</p>
 		</td>
 	</tr>
@@ -185,16 +186,6 @@ class MuhammadUsman:
 </div>
 
 </details>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=techyusman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4"/>
-
-</div>
 
 ---
 
