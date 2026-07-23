@@ -1,38 +1,28 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0a1628"/>
-      <stop offset="100%" style="stop-color:#0d2137"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00d4ff"/>
-      <stop offset="100%" style="stop-color:#4a9eff"/>
-    </linearGradient>
-  </defs>
-  <!-- Background -->
-  <rect width="900" height="200" fill="url(#bg)"/>
-  <!-- Decorative grid lines -->
-  <line x1="0" y1="180" x2="900" y2="180" stroke="#00d4ff" stroke-width="0.4" opacity="0.3"/>
-  <line x1="0" y1="190" x2="900" y2="190" stroke="#4a9eff" stroke-width="0.2" opacity="0.2"/>
-  <!-- Dot accents -->
-  <circle cx="40" cy="40" r="2" fill="#00d4ff" opacity="0.4"/>
-  <circle cx="860" cy="40" r="2" fill="#00d4ff" opacity="0.4"/>
-  <circle cx="40" cy="160" r="1.5" fill="#4a9eff" opacity="0.3"/>
-  <circle cx="860" cy="160" r="1.5" fill="#4a9eff" opacity="0.3"/>
-  <!-- Corner brackets -->
-  <polyline points="20,20 20,50 50,50" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
-  <polyline points="880,20 880,50 850,50" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
-  <polyline points="20,180 20,155 50,155" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
-  <polyline points="880,180 880,155 850,155" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
-  <!-- Main name -->
-  <text x="450" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle" fill="url(#accent)" letter-spacing="2">Muhammad Usman</text>
-  <!-- Subtitle -->
-  <text x="450" y="145" font-family="'Courier New', monospace" font-size="15" text-anchor="middle" fill="#7dd3fc" letter-spacing="1" opacity="0.9">AI &amp; Full Stack Developer  ·  SE @ Sukkur IBA University</text>
-  <!-- Tag line -->
-  <text x="450" y="170" font-family="'Courier New', monospace" font-size="11" text-anchor="middle" fill="#4a9eff" opacity="0.6" letter-spacing="3">// LexAI · TruthLens AI · ERP Systems · LLM Pipelines</text>
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="200" fill="#0d1117"/>
+  <rect x="0" y="0" width="3" height="200" fill="#00d4ff" opacity="0.7"/>
+  <rect x="677" y="0" width="3" height="200" fill="#00d4ff" opacity="0.7"/>
+  <rect x="0" y="197" width="680" height="3" fill="#00d4ff" opacity="0.4"/>
+  <line x1="0" y1="56" x2="680" y2="56" stroke="#1e3a52" stroke-width="0.5"/>
+  <line x1="0" y1="150" x2="680" y2="150" stroke="#1e3a52" stroke-width="0.5"/>
+  <line x1="120" y1="0" x2="120" y2="200" stroke="#1e3a52" stroke-width="0.5" opacity="0.5"/>
+  <line x1="560" y1="0" x2="560" y2="200" stroke="#1e3a52" stroke-width="0.5" opacity="0.5"/>
+  <text x="20" y="35" font-family="Courier New, monospace" font-size="11" fill="#00d4ff" opacity="0.5">&lt;profile&gt;</text>
+  <text x="578" y="35" font-family="Courier New, monospace" font-size="11" fill="#00d4ff" opacity="0.5">&lt;/profile&gt;</text>
+  <text x="20" y="185" font-family="Courier New, monospace" font-size="10" fill="#4a9eff" opacity="0.35">github.com/techyusman</text>
+  <text x="510" y="185" font-family="Courier New, monospace" font-size="10" fill="#4a9eff" opacity="0.35">CGPA 3.50 / 4.00</text>
+  <circle cx="46" cy="100" r="1.5" fill="#00d4ff" opacity="0.3"/>
+  <circle cx="634" cy="100" r="1.5" fill="#00d4ff" opacity="0.3"/>
+  <circle cx="340" cy="22" r="1.5" fill="#00d4ff" opacity="0.25"/>
+  <circle cx="340" cy="178" r="1.5" fill="#00d4ff" opacity="0.25"/>
+  <text x="340" y="93" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#ffffff" letter-spacing="3">Muhammad Usman</text>
+  <line x1="200" y1="108" x2="272" y2="108" stroke="#00d4ff" stroke-width="0.5" opacity="0.4"/>
+  <line x1="408" y1="108" x2="480" y2="108" stroke="#00d4ff" stroke-width="0.5" opacity="0.4"/>
+  <text x="340" y="130" font-family="Courier New, monospace" font-size="13" text-anchor="middle" fill="#4a9eff" letter-spacing="1.5">AI &amp; Full Stack Developer</text>
+  <text x="340" y="150" font-family="Courier New, monospace" font-size="11" text-anchor="middle" fill="#4a9eff" opacity="0.6" letter-spacing="1">SE @ Sukkur IBA University  ·  Karachi, Pakistan</text>
+  <text x="340" y="172" font-family="Courier New, monospace" font-size="10" text-anchor="middle" fill="#2a6a8f" opacity="0.9" letter-spacing="2">// LexAI  ·  TruthLens AI  ·  ERP Systems  ·  LLM Pipelines</text>
 </svg>
 
 <!-- Typing animation -->
