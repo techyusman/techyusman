@@ -1,7 +1,39 @@
 <div align="center">
 
-<!-- Header banner — & encoded as %26 to avoid XML parse error -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d2137&height=220&section=header&text=Muhammad%20Usman&fontSize=58&fontColor=00d4ff&fontAlignY=40&fontAlign=50&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20SE%20%40%20Sukkur%20IBA%20University&descAlignY=60&descSize=17&descColor=4a9eff" />
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0a1628"/>
+      <stop offset="100%" style="stop-color:#0d2137"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#4a9eff"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <!-- Decorative grid lines -->
+  <line x1="0" y1="180" x2="900" y2="180" stroke="#00d4ff" stroke-width="0.4" opacity="0.3"/>
+  <line x1="0" y1="190" x2="900" y2="190" stroke="#4a9eff" stroke-width="0.2" opacity="0.2"/>
+  <!-- Dot accents -->
+  <circle cx="40" cy="40" r="2" fill="#00d4ff" opacity="0.4"/>
+  <circle cx="860" cy="40" r="2" fill="#00d4ff" opacity="0.4"/>
+  <circle cx="40" cy="160" r="1.5" fill="#4a9eff" opacity="0.3"/>
+  <circle cx="860" cy="160" r="1.5" fill="#4a9eff" opacity="0.3"/>
+  <!-- Corner brackets -->
+  <polyline points="20,20 20,50 50,50" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="880,20 880,50 850,50" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="20,180 20,155 50,155" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="880,180 880,155 850,155" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+  <!-- Main name -->
+  <text x="450" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle" fill="url(#accent)" letter-spacing="2">Muhammad Usman</text>
+  <!-- Subtitle -->
+  <text x="450" y="145" font-family="'Courier New', monospace" font-size="15" text-anchor="middle" fill="#7dd3fc" letter-spacing="1" opacity="0.9">AI &amp; Full Stack Developer  ·  SE @ Sukkur IBA University</text>
+  <!-- Tag line -->
+  <text x="450" y="170" font-family="'Courier New', monospace" font-size="11" text-anchor="middle" fill="#4a9eff" opacity="0.6" letter-spacing="3">// LexAI · TruthLens AI · ERP Systems · LLM Pipelines</text>
+</svg>
 
 <!-- Typing animation -->
 <a href="https://github.com/techyusman">
