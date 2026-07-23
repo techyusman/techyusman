@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Header: text split across two lines for better rendering -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:38bdf8&height=220&section=header&text=Muhammad%20Usman&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20SE%20%40%20Sukkur%20IBA%20University&descAlignY=60&descSize=17&descColor=38bdf8" />
+<!-- Header banner — & encoded as %26 to avoid XML parse error -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d2137&height=220&section=header&text=Muhammad%20Usman&fontSize=58&fontColor=00d4ff&fontAlignY=40&fontAlign=50&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20SE%20%40%20Sukkur%20IBA%20University&descAlignY=60&descSize=17&descColor=4a9eff" />
+
+<!-- Typing animation -->
+<a href="https://github.com/techyusman">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=AI+%26+Full+Stack+Developer;Building+LexAI+%26+TruthLens+AI;CNN+%7C+LLM+Pipelines+%7C+ERP+Systems;Speed+Programming+Winner+%F0%9F%8F%86;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
 
 <br/>
 
