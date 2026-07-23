@@ -1,29 +1,11 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="200" fill="#0d1117"/>
-  <rect x="0" y="0" width="3" height="200" fill="#00d4ff" opacity="0.7"/>
-  <rect x="677" y="0" width="3" height="200" fill="#00d4ff" opacity="0.7"/>
-  <rect x="0" y="197" width="680" height="3" fill="#00d4ff" opacity="0.4"/>
-  <line x1="0" y1="56" x2="680" y2="56" stroke="#1e3a52" stroke-width="0.5"/>
-  <line x1="0" y1="150" x2="680" y2="150" stroke="#1e3a52" stroke-width="0.5"/>
-  <line x1="120" y1="0" x2="120" y2="200" stroke="#1e3a52" stroke-width="0.5" opacity="0.5"/>
-  <line x1="560" y1="0" x2="560" y2="200" stroke="#1e3a52" stroke-width="0.5" opacity="0.5"/>
-  <text x="20" y="35" font-family="Courier New, monospace" font-size="11" fill="#00d4ff" opacity="0.5">&lt;profile&gt;</text>
-  <text x="578" y="35" font-family="Courier New, monospace" font-size="11" fill="#00d4ff" opacity="0.5">&lt;/profile&gt;</text>
-  <text x="20" y="185" font-family="Courier New, monospace" font-size="10" fill="#4a9eff" opacity="0.35">github.com/techyusman</text>
-  <text x="510" y="185" font-family="Courier New, monospace" font-size="10" fill="#4a9eff" opacity="0.35">CGPA 3.50 / 4.00</text>
-  <circle cx="46" cy="100" r="1.5" fill="#00d4ff" opacity="0.3"/>
-  <circle cx="634" cy="100" r="1.5" fill="#00d4ff" opacity="0.3"/>
-  <circle cx="340" cy="22" r="1.5" fill="#00d4ff" opacity="0.25"/>
-  <circle cx="340" cy="178" r="1.5" fill="#00d4ff" opacity="0.25"/>
-  <text x="340" y="93" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#ffffff" letter-spacing="3">Muhammad Usman</text>
-  <line x1="200" y1="108" x2="272" y2="108" stroke="#00d4ff" stroke-width="0.5" opacity="0.4"/>
-  <line x1="408" y1="108" x2="480" y2="108" stroke="#00d4ff" stroke-width="0.5" opacity="0.4"/>
-  <text x="340" y="130" font-family="Courier New, monospace" font-size="13" text-anchor="middle" fill="#4a9eff" letter-spacing="1.5">AI &amp; Full Stack Developer</text>
-  <text x="340" y="150" font-family="Courier New, monospace" font-size="11" text-anchor="middle" fill="#4a9eff" opacity="0.6" letter-spacing="1">SE @ Sukkur IBA University  ·  Karachi, Pakistan</text>
-  <text x="340" y="172" font-family="Courier New, monospace" font-size="10" text-anchor="middle" fill="#2a6a8f" opacity="0.9" letter-spacing="2">// LexAI  ·  TruthLens AI  ·  ERP Systems  ·  LLM Pipelines</text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=Muhammad+Usman" alt="Muhammad Usman" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=4A9EFF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=AI+%26+Full+Stack+Developer+%7C+SE+%40+Sukkur+IBA+University" alt="Role" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1200&color=2A6A8F&center=true&vCenter=true&width=700&height=35&lines=Building+LexAI+%7C+TruthLens+AI+%7C+ERP+Systems+%7C+LLM+Pipelines;Speed+Programming+Winner+%F0%9F%8F%86+%7C+Project+Exhibition+2025+%7C+CGPA+3.50%2F4.00" alt="Tagline" />
+
 
 <!-- Typing animation -->
 <a href="https://github.com/techyusman">
