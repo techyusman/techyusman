@@ -1,141 +1,190 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Muhammad.Usman&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Integrator&descAlignY=60&descSize=18&descColor=93c5fd&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://github.com/techyusman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+products+people+love+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Node.js+%7C+Java;AI+%2F+ML+Integrations+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:38bdf8&height=200&section=header&text=Muhammad%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20SE%20Student%20%40%20Sukkur%20IBA&descAlignY=60&descSize=18&descColor=38bdf8&animation=fadeIn" />
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=techyusman&label=Profile+Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://techyusman.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammadusman-pk/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/techyusman)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:muhammadusman122003@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=techyusman&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/techyusman?label=Followers&style=flat-square&color=3b82f6" alt="Followers" />
+<img src="https://img.shields.io/github/followers/techyusman?label=Followers&style=flat-square&color=38bdf8" alt="Followers"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-```yaml
-name:     M.Usman
-handle:   techyusman
-role:     Full Stack Developer
-location: 🌍 Building remotely / On-site
-```
-
-I design and ship **end-to-end web products** — clean UIs, robust APIs, and everything in between. My sweet spot is turning complex problems into elegant, maintainable software. Right now I'm deep in **SaaS architecture**, **AI/ML integrations**, and meaningful **open source** work.
-
-- 🏗️ Currently building **SaaS products** with multi-tenant architectures
-- 🤖 Integrating **LLMs & AI APIs** into production applications
-- 🌱 Exploring **DevOps pipelines**, **CI/CD automation** & cloud-native deployments
-- 💡 Believer in clean code, strong abstractions, and shipping fast
-- 🤝 Open to **collaboration**, **freelance**, and **interesting problems**
+- 🎓 **Final-year BS Software Engineering** @ **Sukkur IBA University** · CGPA **3.50/4.00**
+- 💼 **Full Stack Developer @ Aamir's Autos & Battery Store** — duo-built a live production ERP managing **1,000+ SKUs**, cutting billing time by **60%** with WhatsApp Business API-automated invoicing.
+- 🧠 Architect of **CNN-based healthcare AI**, **LLM pipelines**, **n8n automation agents**, and **enterprise desktop ERP/POS** systems.
+- ⚡ Built AI agent pipelines (n8n + OpenAI) recovering **~5 hrs/week** of manual work per deployment.
+- 🥇 **Speed Programming Winner** · 🏆 **Project Exhibition 2025** — Skin Disease Detection via CNN + OpenCV.
+- 📜 Certified: **DataCamp Data Science Pro Track** · **n8n Workflow Automation** · **Prompt Engineering** (Microsoft/Simplilearn)
+- 💬 Ask me about: **AI/ML pipelines, ERP architecture, LangChain, computer vision, full-stack MERN**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🔭 Currently Building
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3 align="center">🏭 Live Production ERP</h3>
+			<p align="center"><em>Retail ERP — 1,000+ SKUs, WhatsApp-automated billing</em></p>
+			<p>Duo-developed production ERP for Aamir's Autos & Battery Store — inventory management, WhatsApp Business API invoice delivery, MongoDB aggregation queries optimised to sub-200ms on a resource-constrained VPS. Active daily use.</p>
+			<p align="center">
+				<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+				<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+				<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3 align="center">🤖 Urdu AI Voice Assistant</h3>
+			<p align="center"><em>End-to-end Urdu LLM pipeline — sub-2s round-trip latency</em></p>
+			<p>Full Urdu LLM pipeline: Gemini inference + LangChain multi-turn memory with real-time STT/TTS loop achieving sub-2s round-trip latency. Deployed via Streamlit for non-technical users.</p>
+			<p align="center">
+				<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+				<img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
+				<img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+			</p>
+		</td>
+	</tr>
+</table>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-### 🗄️ Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🧩 Featured Projects
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+| 🚀 Project | 🛠️ Tech Stack | 📊 Status |
+|---|---|---|
+| **Live Retail ERP** <br/> *1,000+ SKU ERP with WhatsApp API billing · 60% billing time cut* | React · Node.js · MongoDB · WhatsApp API | 🟢 Live & In Use |
+| **Skin Disease Detection** <br/> *CNN + OpenCV webcam classifier — Project Exhibition 2025 winner* | Python · TensorFlow · OpenCV · Streamlit | 🏆 Exhibition Winner |
+| **Mobile Shop ERP & POS** <br/> *Desktop ERP with IMEI tracking, barcode scanning, PDF invoicing* | Python · PyQt6 · SQLite · ReportLab | 🟢 Live & In Use |
+| **Urdu AI Voice Assistant** <br/> *Gemini + LangChain multi-turn memory · sub-2s STT/TTS latency* | Python · LangChain · Gemini · gTTS | ✅ Deployed |
+| **Legal Judgment Prediction** <br/> *ML classifier at 82%+ accuracy on Pakistani case-law · TF-IDF NLP* | Python · Scikit-learn · NLP · Streamlit | ✅ Deployed |
+| **Hospital Analytics Dashboard** <br/> *Clinical reporting with interactive Plotly charts & cross-filtering* | Python · Streamlit · Plotly | ✅ Deployed |
+| **Workflow Automation & AI Agents** <br/> *n8n pipelines — email triage, lead classification, ~5 hrs/week saved* | n8n · OpenAI API · REST APIs | ✅ Deployed |
+| **Point of Sale Desktop System** <br/> *Role-based POS with inventory, invoicing & dual DB audit trail* | Python · PyQt · MongoDB · MySQL | ✅ Deployed |
 
-### 🔄 CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+*➡️ More on my [Portfolio](https://techyusman.vercel.app)*
 
-### 🤖 AI / ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+---
 
-### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 💻 Tech Stack
+
+<details open>
+<summary><b>🧰 View full stack — languages, frontend, backend, AI & tools</b></summary>
+
+<br/>
+
+<div align="center">
+
+**Languages**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" alt="Python, JavaScript, TypeScript, Java, C++"/></a>
+
+**Frontend**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vite" alt="React, Next.js, Redux, Tailwind, HTML, CSS, Vite"/></a>
+
+**Backend, Databases & Cloud**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,firebase,supabase,vercel" alt="Node.js, Express, Flask, MongoDB, MySQL, SQLite, Firebase, Supabase, Vercel"/></a>
+
+**AI, Automation & Data**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,git,github,githubactions,postman,linux" alt="TensorFlow, scikit-learn, OpenCV, Git, GitHub, GitHub Actions, Postman, Linux"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain"/>
+<img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&logo=openai&logoColor=38bdf8" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n"/>
+<img src="https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=4285F4" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/PyQt6-0d1117?style=flat-square&logo=qt&logoColor=41CD52" alt="PyQt6"/>
+<img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=3F4F75" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Tkinter-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Tkinter"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
+
+</div>
+
+</details>
 
 ---
 
 ## 🧠 Who I Am in Code
 
-```javascript
-const muhammadUsman = {
-  role:     "Full Stack Developer",
-  mission:  "Build products that are fast, elegant, and genuinely useful",
+```python
+class MuhammadUsman:
+    handle   = "techyusman"
+    role     = "AI & Full Stack Developer"
+    uni      = "Sukkur IBA University — BS Software Engineering"
+    gpa      = "3.50 / 4.00"
+    location = "Karachi, Pakistan 🇵🇰"
 
-  languages: ["JavaScript", "TypeScript", "Java", "C++", "Python"],
+    languages  = ["Python", "JavaScript", "TypeScript", "Java", "C++"]
+    fluent_in  = ["React", "Node.js", "Flask", "MongoDB", "MySQL", "LangChain", "n8n", "PyQt6"]
+    ai_stack   = ["TensorFlow", "OpenCV", "Scikit-learn", "LangChain", "OpenAI API", "Gemini"]
+    shipped    = ["Live ERP (1000+ SKUs)", "CNN Skin Disease Detector",
+                  "Urdu Voice AI", "Desktop POS", "Legal Judgment ML", "AI Automation Agents"]
 
-  stack: {
-    frontend:  ["React", "Next.js", "TailwindCSS", "Framer Motion"],
-    backend:   ["Node.js", "Express", "Spring Boot", "GraphQL", "REST"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
-    cloud:     ["AWS", "GCP", "Docker"],
-    cicd:      ["GitHub Actions"],
-    ai:        ["OpenAI API", "LangChain", "TensorFlow", "PyTorch"],
-  },
+    achievements = [
+        "🥇 Speed Programming Winner — Sukkur IBA 2025",
+        "🏆 Project Exhibition 2025 — Skin Disease Detection",
+        "📜 DataCamp Data Science Professional Track",
+        "📜 n8n Workflow Automation Certified",
+        "📜 Prompt Engineering — Microsoft / Simplilearn",
+    ]
 
-  currentFocus: [
-    "Shipping SaaS products at scale",
-    "AI/ML integrations in production",
-    "Contributing to meaningful open source",
-  ],
-
-  principles: ["Clean code", "Ship fast", "Iterate smarter"],
-  openTo:     ["Collaboration", "Freelance", "Exciting ideas"],
-};
+    open_to = ["Collaboration", "Freelance", "Full-time roles", "Interesting problems"]
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<details open>
+<summary><b>📈 Stats, streak, languages & activity</b></summary>
+
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techyusman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=3b82f6&icon_color=3b82f6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=techyusman&theme=tokyonight&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&stroke=3b82f6" />
+<table width="100%">
+	<tr>
+		<td width="50%" align="center">
+			<img src="https://github-readme-stats.shion.dev/api?username=techyusman&custom_title=Muhammad%20Usman%27s%20GitHub%20Stats&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&count_private=true&card_width=420" alt="GitHub Stats"/>
+		</td>
+		<td width="50%" align="center">
+			<img src="https://streak-stats.demolab.com/?user=techyusman&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&card_width=420" alt="Streak Stats"/>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" align="center">
+			<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=techyusman&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true&langs_count=8&card_width=420" alt="Top Languages"/>
+		</td>
+		<td width="50%" align="center">
+			<img src="https://github-readme-stats.shion.dev/api?username=techyusman&show_icons=true&hide_border=true&bg_color=0d1117&hide_title=true&hide_rank=false&rank_icon=percentile&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&ring_color=818cf8&card_width=420" alt="Rank"/>
+		</td>
+	</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyusman&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=3b82f6&count_private=true" />
+<img width="100%" src="https://ghchart.rshah.org/38bdf8/techyusman" alt="techyusman contribution chart"/>
 
 </div>
+
+</details>
 
 ---
 
@@ -143,40 +192,74 @@ const muhammadUsman = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=techyusman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=techyusman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🎖️ Certifications
 
 <div align="center">
 
-<!-- Contribution graph — stable alternative -->
-<img width="100%" src="https://ghchart.rshah.org/3b82f6/techyusman" alt="Muhammad Usman's GitHub Contribution Chart" />
-
-
+| 📜 Certification | 🏛️ Issuer | 📅 Year |
+|---|---|---|
+| Data Science Professional Track | DataCamp | 2026 |
+| Workflow Automation Certification | n8n | 2026 |
+| Prompt Engineering with GitHub Copilot | Microsoft / Simplilearn | 2025 |
+| Master ChatGPT — Generative AI | UniAthena | 2025 |
+| Basics of Data Science | UniAthena / Cambridge Int'l | 2025 |
+| Complete Web Development Bootcamp | Udemy | — |
+| JavaScript Algorithms & Data Structures | freeCodeCamp | — |
+| Responsive Web Design | freeCodeCamp | — |
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Work With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://techyusman.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-6981473a9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techyusman)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadusman122003@gmail.com)
+<table>
+	<tr>
+		<td align="center" width="33%">
+			<h3>🏭 ERP & POS Systems</h3>
+			<p>Production ERPs, desktop POS, inventory management, barcode/IMEI tracking, double-entry accounting, and role-based reporting.</p>
+		</td>
+		<td align="center" width="33%">
+			<h3>🤖 AI & Automation</h3>
+			<p>LLM pipelines, computer vision systems, n8n AI agents, OpenAI/Gemini integrations, and workflow automation that removes hours of manual work.</p>
+		</td>
+		<td align="center" width="33%">
+			<h3>🌐 Full Stack Web</h3>
+			<p>End-to-end MERN web products, SaaS platforms, REST APIs, and real-time dashboards built to production standards.</p>
+		</td>
+	</tr>
+</table>
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<a href="mailto:muhammadusman122003@gmail.com">
+	<img src="https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Me"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammadusman-pk/">
+	<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://techyusman.vercel.app">
+	<img src="https://img.shields.io/badge/View_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="View Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a5f,100:0f172a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0f2942,100:0d1117&height=120&section=footer"/>
 
 </div>
